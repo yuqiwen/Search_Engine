@@ -1,4 +1,4 @@
-# Search Engine Project
+# Lightning Search Engine
 
 A lightning-speed search engine designed to sift through extensive datasets and find matching documents efficiently.
 
